@@ -25,14 +25,13 @@
 https://github.com/iliana-gian/Gizani
 
 **Λίστα προτεινόμενου εξοπλισμού**:
-- Arduino Uno
+- Uno SMD Compatible - CH340
 - Breadboard
-- Jumper Wires
 - Jumper Wires 4-Pin
 - Gravity HUSKYLENS - An Easy-to-use AI Machine Vision Sensor
 - Bluetooth Module for Arduino - AT09
 
-**Ενδεικτικό κόστος**: 94euro
+**Ενδεικτικό κόστος**: 89euro
 
 *Καθώς το σχολείο μας ήδη διαθέτει τον βασικό εξοπλισμό Arduino, για την υλοποίηση του παρόντος έργου, θα χρειαστούμε μόνο τον αισθητήρα AI και το εξάρτημα Bluetooth με κόστος περίπου **76euro**.
 
